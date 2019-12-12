@@ -90,7 +90,7 @@ document.querySelector(".btn-hold").addEventListener("click", function() {
       scores[activePlayer];
 
     // Тухайн толголч ялагч болсон эсэхийг шалгах
-    if (scores[activePlayer] >= 10) {
+    if (scores[activePlayer] >= 100) {
       // Tоглоомыг дууссан төлөвт оруулна.
       isNewGame = false;
       // Тухайн тоглолгчийн нэрийг winnner болгож өөрчлөх.
