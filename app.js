@@ -75,7 +75,7 @@ document.querySelector(".btn-roll").addEventListener("click", function() {
       switchToNextPlayer();
     }
   } else {
-    alert("Тоглоом дууссан байна. NEW GAME товчийг дарн уу!");
+    alert("Тоглоом дууссан байна. NEW GAME товчийг дарнa уу!");
   }
 });
 
@@ -106,7 +106,7 @@ document.querySelector(".btn-hold").addEventListener("click", function() {
       switchToNextPlayer();
     }
   } else {
-    alert("Тоглоом дууссан байна. NEW GAME товчийг дарн уу!");
+    alert("Тоглоом дууссан байна. NEW GAME товчийг дарна уу!");
   }
 });
 
